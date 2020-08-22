@@ -13,3 +13,10 @@ args4 = path to STAR genome
 
 ./extractoR_pipe.sh args1 args2 args3 args4 
 
+Mandatory fields provided in the template:
+
+1. Gene name
+
+2. Primer sequences
+
+3. Ensembl gene ID
